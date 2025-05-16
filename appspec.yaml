@@ -6,4 +6,4 @@ Resources:
         TaskDefinition: <TASK_DEFINITION>
         LoadBalancerInfo:
           ContainerName: "webapp"
-          ContainerPort: 80git add appspec.yaml
+          ContainerPort: 80
